@@ -17,7 +17,7 @@ skonfigurowania dodatkowych opcji [zobacz dokumentację](https://parceljs.org/)
 7. Włącz tryb edycji, wykonując polecenie `npm start`.
 8. Przejdź w przeglądarce pod adres
    [http://localhost:1234](http://localhost:1234). Ta strona będzie się
-   automatycznie odświeżać po dokonaniu zmian w plikach projektu.
+   automatycznie odświeżać po dokonaniu zmian w plikach projektu. 
 
 ## Pliki i foldery
 
