@@ -8,7 +8,7 @@ para conocer y personalizar las funciones adicionales.
 1. Asegúrate de que la versión LTS de Node.js está instalada en tu equipo.
    [Descárgala e instálala](https://nodejs.org/en/) si es necesario.
 2. Clona este repositorio.
-3. Cambie el nombre de la carpeta con `parcel-project-template` por el nombre de tu proyecto.
+3. Cambie el nombre de la carpeta con `goit-js-hw-08` por el nombre de tu proyecto.
 4. Crea un nuevo repositorio vacío en GitHub.
 5. Abre el proyecto en VSCode, ejecuta el terminal y enlaza el proyecto con el repositorio de GitHub
    [según las instrucciones](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url).
@@ -80,7 +80,7 @@ en el enlace `Details` de la ventana desplegable.
 Después de un tiempo, normalmente un par de minutos, la página activa se puede
 ver en la dirección especificada en la propiedad `homepage`. Por ejemplo, aquí
 está el enlace a la versión activa de este repositorio.
-[https://goitacademy.github.io/parcel-project-template](https://goitacademy.github.io/parcel-project-template).
+[https://goitacademy.github.io/goit-js-hw-08](https://goitacademy.github.io/goit-js-hw-08).
 
 Si se abre una página en blanco, asegúrese de que no haya errores en la pestaña
 `Console` relacionados con rutas incorrectas a los archivos CSS y JS del proyecto (**404**).

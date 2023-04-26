@@ -7,7 +7,7 @@ This project was created with Parcel. For familiarization and setting additional
 1. Make sure you have an LTS version of Node.js installed on your computer.
    [Download and install](https://nodejs.org/en/) if needed.
 2. Clone this repository.
-3. Change the folder name from `parcel-project-template` to the name of your project.
+3. Change the folder name from `goit-js-hw-08` to the name of your project.
 4. Create a new empty GitHub repository.
 5. Open the project in VSCode, launch the terminal and link the project to the GitHub repository
    [by instructions](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url).
@@ -60,7 +60,7 @@ More detailed information about the status can be viewed by clicking on the icon
 ### Live page
 
 After some time, usually a couple of minutes, the live page can be viewed at the address specified in the edited `homepage` property. For example, here is a link to a live version for this repository
-[https://goitacademy.github.io/parcel-project-template](https://goitacademy.github.io/parcel-project-template).
+[https://goitacademy.github.io/goit-js-hw-08](https://goitacademy.github.io/goit-js-hw-08).
 
 If a blank page opens, make sure there are no errors in the `Console` tab related to incorrect paths to the CSS and JS files of the project (**404**). Most likely you have the wrong value for the `homepage` property or the `build` script in the `package.json` file.
 
