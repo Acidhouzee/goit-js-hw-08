@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/goit-js-hw-08.git"
+    "url": "git+https://github.com/Acidhouzee/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Bohdan Kireev <test@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/goit-js-hw-08/issues"
+    "url": "https://github.com/Acidhouzee/goit-js-hw-08.git/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.19.0",
