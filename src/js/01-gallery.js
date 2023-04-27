@@ -8,7 +8,6 @@ const list = galleryItems
   .map((img, index) => `<li class="gallery__item"><a class="gallery__link" href="${img.original}"><img class="gallery__image" src="${img.preview}" alt="${img.description}"></a></li>`)
   .join("");
 
-const item = document.querySelectorAll('li');
 gallery.insertAdjacentHTML("afterbegin", list);
 
 var lightbox = new SimpleLightbox('.gallery a', {
