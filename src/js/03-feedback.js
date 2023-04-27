@@ -9,7 +9,7 @@ function initForm() {
     
         formData[event.target.name] = event.target.value;
     
-        localStorage.setItem(LOCAL_STORAGE_FORM_KEY, JSON.stringify(data));
+        localStorage.setItem(LOCAL_STORAGE_FORM_KEY, JSON.stringify(formData));
     }, 500));
     
     window.addEventListener('DOMContentLoaded', () => {
