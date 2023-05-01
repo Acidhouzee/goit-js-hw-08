@@ -15,7 +15,7 @@ function initForm() {
     window.addEventListener('DOMContentLoaded', () => {
       try {
         const currentData = localStorage.getItem(LOCAL_STORAGE_FORM_KEY);
-        const json = JSON.parse(currentData);
+        formData = JSON.parse(currentData);
         Object.entries(formData).forEach(([key, value]) => {
           form[key].value = value;
         });
